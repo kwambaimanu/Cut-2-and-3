@@ -1,0 +1,8 @@
+m -rf file.txt
+while read stringm -rf file.txt
+while read stringm -rf file.txt
+while read stringm
+do
+  echo $string >> file.txt
+done
+cut -c2,7 file.txt
